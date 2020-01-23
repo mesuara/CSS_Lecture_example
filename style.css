@@ -1,7 +1,7 @@
-/* body {
+body {
     background-color: coral ;
-} */
-/* 
+} 
+
 p {
     color: purple;
     border: 10px solid red;
@@ -33,11 +33,11 @@ span {
 h1.hello{
    
    text-decoration: underline;
-} */
+} 
 
-/* h1, p {
+ h1, p {
     color: indigo;
-} */
+}
 
 div > p , div > span{
     color: indigo;
