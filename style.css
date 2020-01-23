@@ -1,0 +1,54 @@
+/* body {
+    background-color: coral ;
+} */
+/* 
+p {
+    color: purple;
+    border: 10px solid red;
+}
+
+#onlyone{
+    color: blue;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+span {
+    color: red;
+   
+}
+
+#backgroundme {
+    background-color: grey;
+}
+
+.hello{
+    font-size: 150px;
+    color: green;
+    background-color: greenyellow;
+}
+
+h1.hello{
+   
+   text-decoration: underline;
+} */
+
+/* h1, p {
+    color: indigo;
+} */
+
+div > p , div > span{
+    color: indigo;
+}
+
+.back{
+    background-color: lightblue;
+    width: 150px;
+}
+
+
+
+
+
